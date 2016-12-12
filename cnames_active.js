@@ -388,7 +388,7 @@ var cnames_active = {
     ,"nick": "nmai.github.io" //noCF? (don´t add this in a new PR)
     ,"nite": "manvalls.github.io/nite"
     ,"nktx": "nktx.github.io" //noCF? (don´t add this in a new PR)
-    ,"node-atlas": "haeresis.github.io/NodeAtlas" 
+    ,"node-atlas": "haeresis.github.io/NodeAtlas"
     ,"node-browser_process": "caspervonb.github.io/node-browser_process" //noCF? (don´t add this in a new PR)
     ,"nodegarden": "pakastin.github.io/nodegarden"
     ,"noted": "carter-slade.github.io/Noted-/" //noCF? (don´t add this in a new PR)
@@ -543,6 +543,7 @@ var cnames_active = {
     ,"social-likes": "sapegin.github.io/social-likes" //noCF? (don´t add this in a new PR)
     ,"sonny": "sonnylazuardi.github.io" //noCF? (don´t add this in a new PR)
     ,"sox": "sox-team.github.io/sox" //noCF? (don´t add this in a new PR)
+    ,'specky': 'speckyjs.github.io/specky',
     ,"spectragram,": "adrianengine.github.io/jquery-spectragram" //noCF? (don´t add this in a new PR)
     ,"spicdev": "spicdev.github.io" //noCF? (don´t add this in a new PR)
     ,"spin": "fgnass.github.io/spin.js" //noCF? (don´t add this in a new PR)
